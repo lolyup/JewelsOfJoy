@@ -1,3 +1,6 @@
+
+
+
 # JewelsOfJoy E-commerce Platform
 
 A full-stack e-commerce application featuring a handcrafted jewelry collection and a specialized beauty care line. The platform includes a real-time customer interface and a dedicated administrative dashboard for inventory management.
@@ -5,15 +8,16 @@ A full-stack e-commerce application featuring a handcrafted jewelry collection a
 ## Features
 
 ### Customer Interface
-
   * **Real-time Product Sync:** Utilizes Firebase Firestore `onSnapshot` for immediate UI updates when products are added or modified.
   * **Category Filtering:** Dynamic sorting for necklaces, rings, earrings, and bracelets.
   * **Shopping Cart System:** Persistent local storage for cart items with a slide-out sidebar for checkout management.
   * **Multi-Channel Contact:** Integrated WhatsApp and direct call buttons for customer inquiries.
   * **Responsive Design:** Optimized layouts for mobile, tablet, and desktop viewing.
+  https://github.com/user-attachments/assets/50767ead-b043-43b6-ac7a-3c03b3288494
+  https://github.com/user-attachments/assets/070e7dfd-e86f-4609-ac6c-f6d3d5e4e16e
 
 ### Administrative Panel
-
+  https://github.com/user-attachments/assets/0bfea9c8-dac5-49e2-aa79-922a93abcaa3
   * **Secure Authentication:** Protected login system using Firebase Auth.
   * **Product Management:** Full CRUD (Create, Read, Update, Delete) functionality for jewelry and beauty care items.
   * **Image Management:** Integrated Cloudinary upload flow to handle high-resolution product imagery.
