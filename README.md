@@ -13,8 +13,8 @@ A full-stack e-commerce application featuring a handcrafted jewelry collection a
   * **Shopping Cart System:** Persistent local storage for cart items with a slide-out sidebar for checkout management.
   * **Multi-Channel Contact:** Integrated WhatsApp and direct call buttons for customer inquiries.
   * **Responsive Design:** Optimized layouts for mobile, tablet, and desktop viewing.
-  https://github.com/user-attachments/assets/50767ead-b043-43b6-ac7a-3c03b3288494
-  https://github.com/user-attachments/assets/070e7dfd-e86f-4609-ac6c-f6d3d5e4e16e
+https://github.com/user-attachments/assets/50767ead-b043-43b6-ac7a-3c03b3288494
+https://github.com/user-attachments/assets/070e7dfd-e86f-4609-ac6c-f6d3d5e4e16e
 
 ### Administrative Panel
   https://github.com/user-attachments/assets/0bfea9c8-dac5-49e2-aa79-922a93abcaa3
