@@ -7,7 +7,6 @@ A full-stack e-commerce application featuring a handcrafted jewelry collection a
 
 ## Features
 
-https://github.com/user-attachments/assets/070e7dfd-e86f-4609-ac6c-f6d3d5e4e16e
 ### Customer Interface
   https://github.com/user-attachments/assets/50767ead-b043-43b6-ac7a-3c03b3288494
   * **Real-time Product Sync:** Utilizes Firebase Firestore `onSnapshot` for immediate UI updates when products are added or modified.
@@ -40,6 +39,11 @@ This project is engineered to run entirely on free-tier services. By offloading 
 ## Configuration
 
 The project is initialized via `firebase-config.js`, which centralizes the API keys and service initializations (`auth`, `db`, `analytics`). Image assets are managed via Cloudinary URLs stored within the Firestore documents.
+
+## Desktop View
+  https://github.com/user-attachments/assets/50767ead-b043-43b6-ac7a-3c03b3288494
+## Mobile View
+  https://github.com/user-attachments/assets/070e7dfd-e86f-4609-ac6c-f6d3d5e4e16e
 
 ## View it live here
 
